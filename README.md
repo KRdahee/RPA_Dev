@@ -1,3 +1,6 @@
 # RPA_Dev
-Robotic Process Automation
-로봇을 사용하여 반복적인 비즈니스 작업을 자동화하는 소프트웨어 기술_업무자동화 프로젝트
+Robotic Process Automation_업무자동화 프로젝트
+
+Tool : UiPath (커뮤니티_V / Studio, UR, AR) 
+= 오케스트레이터 추후 추가. OCR, 오토파일럿.
+
